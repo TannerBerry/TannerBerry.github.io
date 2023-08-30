@@ -17,34 +17,12 @@ labels:
 
 So, you just changed your degree to Computer Science, you spent last semester figuring out Java and coming to the reality that there are no jobs being part of a heist crew where you get to say “I’m in” after breaking into some mainframe. Now what? Well, if you’re like me you start to realize the amazing world of programming that you have just stumbled into. An entire world with unique cultures, more languages than you can fathom, and endless possibilities of what you can do. With each language unlocking more possibilities, understanding, and analyzing what each language brings to the table is a vital part of the journey.
 
-## In the context of programming
+## Its on the horizon!
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+It’s important when viewing something to understand your perspective, where you view it from has a lot to do with how you perceive it, for myself my viewpoint of JavaScript comes from a Java point of view. Java is strict, structured, and mind numbingly tedious. This is great in a sense of clarity and redundancy but also extremely time-consuming and at times restrictive. JavaScript on the other hand takes the “all gas no breaks” approach. Streamlined flexible syntax, arrow functions, and destructuring, JavaScript’s dynamically typed language is a breath of fresh air. It feels intuitive to learn and natural to write in JavaScript. Now my experience with JavaScript is still limited and I also must take into consideration in regard to learning it, the difference in learning techniques I had between it and java.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Got to be fit to go far
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Okay I’m going to learn JavaScript, now I have to break a sweat doing it with “athletic software engineering”? Well, no, but also yes. Athletic software engineering seemed like an incredibly intimidating prospect at first but I’m already seeing the benefits from it. The high intensity, stress, and pressure of ASE quickly brings to light any deficiencies in your abilities and knowledge. The workouts of the day remind me of wind sprints, a form of endurance training where instead of running at a slow constant pace you give it all you have in short bursts. You do these short bursts more and more and soon enough you realize your new “slow constant” is lightyears faster than before. WODs seem to create a familiarity with the pressure and intensity of a test or job interview to the point that you will become numb to intimidation factor of both and be able to keep calm and focus on the tasks at hand and not how nervous you are. It also has an added benefit of being very fulfilling and rewarding, as you are aware of its difficulty and therefore pleased with your completion of it. So far, the accelerated learning rate and confidence I am gaining in a short timeframe on a new language are enough for me to feel confident that this learning style is one I plan to keep in my toolbox in classes.
 
-## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
