@@ -21,10 +21,10 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-     "keywords": [ "C", "C++", "Java", "Javascript" ]
+     "keywords": [ "C", "C++", "Java", "Javascript", "SolidWorks" ]
     },
     {"name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "Git/GitHub", "g++" ]
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -53,7 +53,7 @@
       "company": "Naval Surface Warfare Center",
       "position": "R&D Engineer",
       "website": "https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Corona/",
-      "startDate": "2019-01-01",
+      "startDate": "2018-12-01",
       "endDate": "2019-09-20",
       "summary": "Lead additive manufacturing Engineer",
       "highlights": [
