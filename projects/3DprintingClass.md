@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1MarineWprinter.jnp
+image: img/image.jpg
 title: "3D Printing Classes"
 date: 2019
 published: True
