@@ -3,13 +3,11 @@ layout: project
 type: project
 image: img/MarinesWithPrinters.jpg
 title: "3D Printing Classes"
-date: 2015
+date: 2019
 published: True
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - SolidWorks
+  - 3D Printing
 summary: "A course built to teach military members the skills to design and make 3D printed parts"
 ---
 
