@@ -9,7 +9,7 @@ labels:
   - SolidWorks
   - 3D Printing
 summary: "A course built to teach military members the skills to design and make 3D printed parts"
----
+--- 
 
 <img class="img-fluid" src="../img/1MarineWprinter.jnp">
 
