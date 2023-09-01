@@ -24,6 +24,6 @@ I was selected to be the subject matter expert and lead developer of the project
 Those 5 months were where I grew the most during my time in the Marines. I learned how to manage a team and delegate to meet deadlines. I developed networking skills and created working relationships in the field. I became an expert in working under stressful conditions and tight deadlines. Overall, I learned how to refine not only my technical abilities but my management skills as well. 
 
 Here is a powerpoint from one lecture about how to use the software that takes a computer animated design and changes it into code read by the 3D printers:
-
+<iframe src="https://onedrive.live.com/embed?resid=D87BB0FC525DEA6C%2118212&authkey=!AHdWvKOlDFo63Z4&em=2" width="800" height="800" frameborder="0" scrolling="no"></iframe>
 
 
