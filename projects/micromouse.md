@@ -35,5 +35,5 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-<iframe src="https://onedrive.live.com/embed?resid=D87BB0FC525DEA6C%2118212&authkey=!AHdWvKOlDFo63Z4&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=D87BB0FC525DEA6C%2118212&authkey=!AHdWvKOlDFo63Z4&em=2" width="800" height="800" frameborder="0" scrolling="no"></iframe>
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
