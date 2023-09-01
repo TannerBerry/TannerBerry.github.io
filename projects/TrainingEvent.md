@@ -6,6 +6,8 @@ title: "Training Event"
 date: 2018
 published: true
 labels:
+  -Events
+  -Managment
 summary: "A large scale training event for deployment readiness for the Squadron i was in."
 ---
 
