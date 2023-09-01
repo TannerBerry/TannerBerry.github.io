@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ProfileShapedcharge.jpg
 title: "3D Printed Shaped Charge"
-date: 2023
+date: 2019
 published: true
 labels:
   - 3D Printing
