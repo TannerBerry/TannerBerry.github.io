@@ -15,7 +15,7 @@ labels:
 
 *New Language, New World.*
 
-So, you just changed your degree to Computer Science, you spent last semester figuring out Java and coming to the reality that there are no jobs being part of a heist crew where you get to say “I’m in” after breaking into some mainframe. Now what? Well, if you’re like me you start to realize the amazing world of programming that you have just stumbled into. An entire world with unique cultures, more languages than you can fathom, and endless possibilities of what you can do. With each language unlocking more possibilities, understanding, and analyzing what each language brings to the table is a vital part of the journey.
+So, you just changed your degree to Computer Science, you spent last semester trying to figuring out Java and what all these new languages are and do. Now what? Well, if you’re like me you start to realize the amazing world of programming that you have just stumbled into. An entire world with unique cultures, more languages than you can fathom, and endless possibilities of what you can do. With each language unlocking more possibilities, understanding, and analyzing what each language brings to the table is a vital part of the journey.
 
 ## It's on the horizon!
 
