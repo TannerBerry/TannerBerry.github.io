@@ -9,7 +9,6 @@ labels:
   - Eslint
 ---
 
-/<img width="200px" class="rounded float-start pe-4" src="../img/key.jpg">
 
 *New Language, New World.*
 key
