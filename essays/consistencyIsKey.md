@@ -1,4 +1,3 @@
-![image](https://github.com/TannerBerry/TannerBerry.github.io/assets/86325785/8b7b397d-904b-44b0-b3b0-4cd39ef2a536)---
 layout: essay
 type: essay
 title: "Consistency is Key"
