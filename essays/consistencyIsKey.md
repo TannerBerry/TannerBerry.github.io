@@ -1,7 +1,7 @@
----
+![image](https://github.com/TannerBerry/TannerBerry.github.io/assets/86325785/8b7b397d-904b-44b0-b3b0-4cd39ef2a536)---
 layout: essay
 type: essay
-title: "Coding Style"
+title: "Consistency is Key"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-18
 published: true
@@ -10,10 +10,10 @@ labels:
   - Eslint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Compass_1.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/key.jpg">
 
 *New Language, New World.*
-
+key
 So, you just changed your degree to Computer Science, you spent last semester trying to figuring out Java and what all these new languages are and do. Now what? Well, if you’re like me you start to realize the amazing world of programming that you have just stumbled into. An entire world with unique cultures, more languages than you can fathom, and endless possibilities of what you can do. With each language unlocking more possibilities, understanding, and analyzing what each language brings to the table is a vital part of the journey.
 
 ## It's on the horizon!
