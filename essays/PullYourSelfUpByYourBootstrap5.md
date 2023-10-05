@@ -10,9 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Boot.jpg">
-
-*Introduction*
+<img width="200px" class="rounded float-start pe-4" src="../img/boot.jpg">
 
 As a student newly introduced to the vast world of web development, I embarked on a challenging yet rewarding journey in learning a UI framework, specifically Bootstrap 5. At first, the complexities of Bootstrap 5 seemed daunting. However, its intuitive nature made the learning process less challenging and more exciting. This essay explores my experiences with Bootstrap 5, highlighting the initial struggles, its advantages, and the software engineering benefits of mastering UI frameworks.
 
