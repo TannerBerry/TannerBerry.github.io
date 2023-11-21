@@ -17,34 +17,34 @@ labels:
 
 
 ## Personal Experience with AI
-1. Experience WODs, e.g., E18
-Using AI for Experience WODs has been a game-changer. It proved especially helpful when I faced roadblocks, like misunderstanding the nuances of the underscore pluck function. AI's ability to provide instant clarification accelerated my learning process, turning potential hours of confusion into moments of enlightenment.
-2. In-class Practice WODs
-In these sessions, ChatGPT served as a quick reference guide. For instance, when grappling with HTML concepts, it succinctly clarified the differences in header syntax, enhancing my understanding and saving valuable class time.
-3. In-class WODs
-During these WODs, I consciously chose not to use AI. The need for quick, accurate responses under time pressure made AI less appealing, prompting me to rely more on my understanding and instincts.
-4. Essays
-For essay writing, Grammarly was indispensable in refining my drafts. It corrected errors and helped me understand the nuances of English grammar, improving my writing skills over time.
-5. Final Project
-I refrained from using AI in the final project, valuing my work's authenticity and personal touch. This decision stemmed from a desire to fully own the creative and technical aspects of the project.
-6. Learning a Concept / Tutorial
-For straightforward queries, AI was a time-saver. However, I still preferred comprehensive resources like video tutorials for in-depth learning or complex concepts, which offered more context and depth.
-7. Answering a Question in Class or in Discord
-I rarely used AI for class discussions, as I wanted my responses to reflect my voice and understanding.
-8. Asking or Answering a smart question
-I avoided AI for smart-questions, considering the value of personal knowledge and direct human interaction in such scenarios.
-9. Coding Example
-AI proved beneficial for providing coding examples. When learning about Underscore .pluck, AI-generated examples offered practical insights that supplemented my learning.
-10. Explaining Code
-One of the most significant uses of AI was for code explanation. When a code segment's functionality was unclear, AI provided detailed breakdowns, which were instrumental in deepening my comprehension.
-11. Writing Code
-I generally avoided AI for writing code. The inconsistencies in style and the additional time needed to adapt AI-generated code to my projects made it less practical.
-12. Documenting Code
-While I have yet to use AI for documentation, its potential in this area is intriguing. However, the precision required in documentation made me hesitant to rely on AI.
-13. Quality Assurance
-AI excelled in quality assurance tasks, offering quick insights into potential errors and suggesting directions for debugging, which was invaluable in refining my code.
-14. Other Uses in ICS 314
-I utilized AI for administrative tasks like calculating my grade total, appreciating its ability to streamline mundane tasks and allowing me to focus on more complex issues.
+*1. Experience WODs*
+  Using AI for Experience WODs has been a game-changer. It proved especially helpful when I faced roadblocks, like misunderstanding the nuances of the underscore pluck function. AI's ability to provide instant clarification accelerated my learning process, turning potential hours of confusion into moments of enlightenment.
+2. *In-class Practice WODs*
+  In these sessions, ChatGPT served as a quick reference guide. For instance, when grappling with HTML concepts, it succinctly clarified the differences in header syntax, enhancing my understanding and saving valuable class time.
+*3. In-class WODs*
+  During these WODs, I consciously chose not to use AI. The need for quick, accurate responses under time pressure made AI less appealing, prompting me to rely more on my understanding and instincts.
+*4. Essays*
+  For essay writing, Grammarly was indispensable in refining my drafts. It corrected errors and helped me understand the nuances of English grammar, improving my writing skills over time.
+*5. Final Project*
+  I refrained from using AI in the final project, valuing my work's authenticity and personal touch. This decision stemmed from a desire to fully own the creative and technical aspects of the project.
+*6. Learning a Concept / Tutorial*
+  For straightforward queries, AI was a time-saver. However, I still preferred comprehensive resources like video tutorials for in-depth learning or complex concepts, which offered more context and depth.
+*7. Answering a Question in Class or in Discord*
+  I rarely used AI for class discussions, as I wanted my responses to reflect my voice and understanding.
+*8. Asking or Answering a smart question*
+  I avoided AI for smart-questions, considering the value of personal knowledge and direct human interaction in such scenarios.
+*9. Coding Example*
+  AI proved beneficial for providing coding examples. When learning about Underscore .pluck, AI-generated examples offered practical insights that supplemented my learning.
+*10. Explaining Code*
+  One of the most significant uses of AI was for code explanation. When a code segment's functionality was unclear, AI provided detailed breakdowns, which were instrumental in deepening my comprehension.
+*11. Writing Code*
+  I generally avoided AI for writing code. The inconsistencies in style and the additional time needed to adapt AI-generated code to my projects made it less practical.
+*12. Documenting Code*
+  While I have yet to use AI for documentation, its potential in this area is intriguing. However, the precision required in documentation made me hesitant to rely on AI.
+*13. Quality Assurance*
+  AI excelled in quality assurance tasks, offering quick insights into potential errors and suggesting directions for debugging, which was invaluable in refining my code.
+*14. Other Uses in ICS 314*
+  I utilized AI for administrative tasks like calculating my grade total, appreciating its ability to streamline mundane tasks and allowing me to focus on more complex issues.
 
 ## Impact on Learning and Understanding
 
