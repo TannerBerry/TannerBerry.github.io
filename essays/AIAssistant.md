@@ -10,7 +10,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/boot.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/AI.jpg">
 
 ## Introduction
   In the rapidly evolving landscape of education, particularly in disciplines like software engineering, Artificial Intelligence (AI) has become a crucial tool. Its role extends beyond mere assistance to being a transformative force, reshaping pedagogical methods and student experiences. In the ICS 314 course, my interaction with AI, predominantly through ChatGPT, has offered unique insights and challenges in understanding and applying software engineering principles. This essay aims to delve deeper into these experiences, reflecting on the nuanced ways AI has influenced my learning journey.
