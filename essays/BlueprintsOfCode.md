@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/DesignPattern.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/DesignPattern.jpg">
 
 *A Journey Through Design Patterns*
 
