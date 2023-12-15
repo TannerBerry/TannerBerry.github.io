@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-     "keywords": [ "C", "C++", "Java", "Javascript", "SolidWorks" ]
+     "keywords": [ "C", "C++", "Java", "Javascript", "SolidWorks", "HTML", "React" ]
     },
     {"name": "Toolsets/OS",
       "keywords": [ "WindowsOS", "Git/GitHub" ]
