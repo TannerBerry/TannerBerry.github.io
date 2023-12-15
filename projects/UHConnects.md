@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LogDrill.jpg
+image: img/UhConnect.jpg
 title: "UH Connect"
 date: 2018
 published: true
