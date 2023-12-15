@@ -11,7 +11,7 @@ labels:
 summary: "Developed web platform connecting students with job opportunities."
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/UhConnect.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/LandingPage.jpg">
 
 In the fall of 2023 myself and 4 other classmates designed and implemented a website for local and non-local companies who want to recruit students from UH to make their opportunities known to students.
 The "Company Connector" project presented a unique and pressing challenge: bridging the gap between University of Houston (UH) computer science and engineering students and potential job and internship opportunities. As a key member of the project team, my role was pivotal in shaping the website's overall design, functionality, and branding, which included creating mockup pages and designing the logo.
