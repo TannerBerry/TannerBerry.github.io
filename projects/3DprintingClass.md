@@ -11,7 +11,7 @@ labels:
 summary: "A course built to teach military members the skills to design and make 3D printed parts"
 --- 
 
-<img class="img-fluid" src="../img/1MarineWprinter.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/1MarineWprinter.jpg">
 
 At the end of 2017 the Marine Corps decided it wanted to familiarize itself with an emerging technology, 3D printing. The primary goal was to save money by producing in house parts instead of outsourcing to contractors and developing new tools. The Marine Corps decided to create a curriculum centered around building 3D printing skills with hopes of galvanizing an entirely new job field within the Marines. 
 
