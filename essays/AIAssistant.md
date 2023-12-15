@@ -13,7 +13,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/AI.jpg">
 
 ## Introduction
-  In the rapidly evolving landscape of education, particularly in disciplines like software engineering, Artificial Intelligence (AI) has become a crucial tool. Its role extends beyond mere assistance to being a transformative force, reshaping pedagogical methods and student experiences. In the ICS 314 course, my interaction with AI, predominantly through ChatGPT, has offered unique insights and challenges in understanding and applying software engineering principles. This essay aims to delve deeper into these experiences, reflecting on the nuanced ways AI has influenced my learning journey.
+  In the rapidly evolving landscape of education, particularly in disciplines like software engineering, Artificial Intelligence (AI) has become a crucial tool. Its role extends beyond mere assistance to being a transformative force, reshaping pedagogical methods and student experiences. In a course i took (Software Engineering AKA ICS 311), my interaction with AI, predominantly through ChatGPT,  offered unique insights and challenges in understanding and applying software engineering principles. This essay aims to delve deeper into these experiences, reflecting on the nuanced ways AI has influenced my learning journey. In the following paper i will explaine my personal dealing with AI though my software engineering class, as well as my general views on the matter of AI in educational institutions. In this essay i will refference WOD's, this stands for Workouts Of the Day, these were mini exams held once a week where we where givin a coding problem an asked to solve it in a set time period.
 
 
 ## Personal Experience with AI
@@ -68,4 +68,4 @@ labels:
 
 ## Conclusion
 
-  In sum, using AI in the ICS 314 course has been a multifaceted experience, offering enhancements and challenges to my educational journey. While AI has undoubtedly enriched my understanding of software engineering, it also underscored the importance of balancing technological assistance and human ingenuity. Optimizing the integration of AI in future courses will be vital to maximizing its benefits while preserving the core values of creativity and critical thinking in software engineering education.
+  In sum, using AI in the ICS 314 course had been a multifaceted experience, offering enhancements and challenges to my educational journey. While AI has undoubtedly enriched my understanding of software engineering, it also underscored the importance of balancing technological assistance and human ingenuity. Optimizing the integration of AI in future courses will be vital to maximizing its benefits while preserving the core values of creativity and critical thinking in software engineering education.
