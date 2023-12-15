@@ -13,7 +13,7 @@ summary: "Developed web platform connecting students with job opportunities."
 
 <img width="200px" class="rounded float-start pe-4" src="../img/LandingPage.jpg">
 
-In the fall of 2023 myself and 4 other classmates designed and implemented a website for local and non-local companies who want to recruit students from UH to make their opportunities known to students.
+In the fall of 2023 myself and 4 other classmates designed and implemented a website called UH Connect for local and non-local companies who want to recruit students from UH to make their opportunities known to students.
 The "Company Connector" project presented a unique and pressing challenge: bridging the gap between University of Houston (UH) computer science and engineering students and potential job and internship opportunities. As a key member of the project team, my role was pivotal in shaping the website's overall design, functionality, and branding, which included creating mockup pages and designing the logo.
 
 ##### Project Overview: Addressing the Problem 
@@ -23,7 +23,7 @@ The core issue at hand was the inefficiency and lack of proactive measures in co
 Our solution was the development of the "Company Connector" web application. This platform served as a dynamic conduit between students and companies. It allowed companies to showcase potential opportunities and students to exhibit their profiles, aligning interests, skills, and geographical preferences. The site's dual functionality aimed to facilitate a seamless match between students and employers.
 
 ##### My Contributions
-*Designing Mockup Pages and Website Functionality:* I was responsible for creating the initial mockup pages, laying the foundation for the website's structure and user interface. My focus was on ensuring an intuitive and user-friendly design that could effectively display company information and student profiles.
+*Designing Mockup Pages and Website Functionality:* I was responsible for creating the initial mockup pages, laying the foundation for the website's structure and user interface. My focus was on ensuring an intuitive and user-friendly design that could effectively display company information and student profiles. A view of our websites github can be found <a href="https://github.com/uh-connect/home-page">(Here)</a>.
 
 *Logo Design:* I also took on the creative task of designing the logo for "Company Connector." The logo needed to encapsulate the essence of the platform – a bridge between academia and industry. My design aimed to reflect both connectivity and professionalism, serving as a visual anchor for the site.
 
