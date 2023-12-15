@@ -4,7 +4,7 @@ type: essay
 title: "The Art of Inquiry"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-published: true
+published: false
 labels:
   - Software Engineering
   - forums
