@@ -4,7 +4,7 @@ type: project
 image: img/UhConnect.jpg
 title: "UH Connect"
 date: 2018
-published: true
+published: false
 labels:
   - Web Design
   - Managment
