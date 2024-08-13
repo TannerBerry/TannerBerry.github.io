@@ -4,7 +4,7 @@ type: essay
 title: "Consistency is Key"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-18
-published: false
+published: true
 labels:
   - JavaScript
   - Eslint
