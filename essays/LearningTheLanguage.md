@@ -4,7 +4,7 @@ type: essay
 title: "Learning The Language"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: false
+published: true
 labels:
   - JavaScript
   - Java
