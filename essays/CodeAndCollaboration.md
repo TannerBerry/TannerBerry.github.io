@@ -14,6 +14,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/CodeTgPic.jpg">
 
 *Navigating Real-World Development.*
+
   During my final year at the University of Manoa, I embarked on a remarkable journey during my Software Engineering 2 class that shaped my project management, teamwork, and client communication skills. A class whose experience has not just been an academic challenge but one that has elevated both my technical and interpersonal abilities, allowing me to thrive in an engaging, real-world environment. Working on a website for a real company has been an exciting opportunity to bridge theory and practice. At the core of this experience is the power of collaboration. 
   
   Once into teams, we made our primary focus communication and interconnection to allow for clear expectations that enabled us to tackle challenges head-on. Simultaneously, GitHub became the backbone of our project, providing structure for managing code and tracking our progress. By setting meaningful deadlines and adhering to them, we were able to foster a steady workflow aligned with our customer's goals. I took a leadership role in client meetings and felt the weight of responsibility as I guided my team in articulating our progress while gathering essential feedback. This experience revealed the importance of clear direction, accountability, and adaptability in achieving our shared aspirations. 
