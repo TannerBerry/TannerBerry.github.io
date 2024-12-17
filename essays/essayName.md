@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI Assistant"
+title: "Essay Name"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
