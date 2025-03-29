@@ -4,10 +4,6 @@ layout: home
 ---
 
 <!-- 
-Note: The following includes were removed because no such files existed:
-     {% include about/about.html %}
-     {% include projects/projects.html %}
-     {% include essays/essays.html %}
--->
-<h1>Welcome to my site!</h1>
-<p>This is my homepage content, now using <code>layout: home</code>.</p>
+{% include about/about.html %}
+{% include projects/projects.html limit=4 %}
+{% include essays/essays.html limit=6 %}
